@@ -4,7 +4,7 @@ This project was developed as part of a robotics and control systems course at L
 
 Additionally, the system includes a camera-based feedback module written in Python using OpenCV, which estimates the distance between the two robots in real time. This allows adaptive control and coordination based on live spatial measurements.
 
-![System Setup](./images/system-setup.jpg)
+![System Setup](./images/system-setup.png)
 *Experimental setup with both robots, camera, and wireless modules*
 
 ![GUI Overview](./images/gui.png)
